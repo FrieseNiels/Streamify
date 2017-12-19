@@ -31,11 +31,6 @@
 		<meta name="google-site-verification" content="HgaWYUth0yxqVOyaIm87oVsMvJ0Sb4FL__Y4H4G0A-8" />
 	</head>
 	<body>
-<div class="fullscreen" style="display:none">
-        <img src="https://wefabric.nl/content/themes/wefabric/assets/images/logo.svg" width="1280" height="720" class="img-responsive" style="
-    margin-left: 25%; margin-top:10%;
-">
-</div>	
 		<header>
 			<div>
 					<span class='title'><h1>Streamify.nl</h1></span>

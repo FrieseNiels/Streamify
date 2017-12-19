@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /assets/api/secured 
+Sitemap: http://www.streamify.nl/sitemap.xml
